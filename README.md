@@ -5,7 +5,7 @@
 ---
 
 # Códigos desenvolvidos durante as aulas do curso de análise de dados
-## Teurma Vamo Ai !
+## Turma Vamo Ai !
 ### 2023
 
 ---

@@ -4,3 +4,6 @@
 
 lista = [1,2,3,4,5]
 
+soma = sum(lista)
+
+print(f'A soma dos valores da lista é: {soma}.')

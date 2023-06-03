@@ -1,3 +1,3 @@
 # Análise de Dados
 
-![ Aulas Python ](image.png)
+![ Aulas Python ]([image.png](https://previews.dropbox.com/p/thumb/AB7OWNlsygZBxxusB8GRk5QnP1w9E94HQJh6vC0_j28ufX4kkHjLJL98KPBxIdE3H1plNvNzkeSGjNm7UuFEobFv9S3LbeqPcchfKksvuqvma-G6VvSxQ7Aelm1fk6Bu9OkcS-K_6heNS9HsvYW5tA70FpZt9Mu5jWPI4CZYa3vQpNKOCguvjd_ejPM5591LQWKUa-dC1shsPblH35fdEDQW7-yQNBkDccMLDjXtqaQaf5gN8ziXne6gCZrdEKuGg2jdbvB0ysd-C1e5i_mQHmir-ORiyTyJqXg_hBQ10sd2-cRRwXljTw3VQ5RVpbrsQrZK76dCcqwRgsOXC4ot1_OTh_x_kX9AvPrd_rjmG7ET0XKwNmQztE_GDgtKlh6034o/p.png))
